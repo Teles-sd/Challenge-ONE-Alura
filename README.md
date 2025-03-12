@@ -39,6 +39,9 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 Lógica implementada em JavaScript: [código](./app.js).
 
+[Github Pages](https://pages.github.com/) usado para hospedagem.  
+Hospedado em: https://teles-sd.github.io/Challenge-ONE-Alura/
+
 ![gif-challenge](./img/Challenge-Alura.gif)
 
 ---
