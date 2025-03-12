@@ -37,14 +37,16 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 ## Implementação
 
-- To do:
-  - [ ] GIF
-  - [ ] Vercel link
+Lógica implementada em JavaScript: [código](./app.js).
+
+![gif-challenge](./assets/Challenge-Alura.gif)
 
 ---
 
 ## Tecnologias utilizadas
 
-
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
