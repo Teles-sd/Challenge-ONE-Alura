@@ -20,16 +20,17 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 ## Requisitos
 
 - [x] Adicionar nomes:  
-  Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+    - [x] Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+    - [x] Após adicionar o nome, redefina o campo de texto para uma string vazia.
 
-- [ ] Validar entrada:  
-    - [ ] Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
-    - [ ] _(extra)_ Se o nome já estiver na lista ele não é inserido de novo.
+- [x] Validar entrada:  
+    - [x] Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+    - [x] _(extra)_ Se o nome já estiver na lista ele não é inserido de novo.
 
-- [ ] Visualizar a lista:  
+- [x] Visualizar a lista:  
   Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
-- [ ] Sorteio aleatório:  
+- [x] Sorteio aleatório:  
   Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ---
