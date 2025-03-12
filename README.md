@@ -39,7 +39,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 Lógica implementada em JavaScript: [código](./app.js).
 
-![gif-challenge](./assets/Challenge-Alura.gif)
+![gif-challenge](./img/Challenge-Alura.gif)
 
 ---
 
